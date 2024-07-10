@@ -1,0 +1,69 @@
+.page {
+    background-color: white;
+    margin:none;
+}
+
+.post {
+    width: 50%;
+    margin:auto;
+}
+
+.post-bodylikes {
+    width: 100%;
+    margin:auto;
+    background-color: whitesmoke;
+
+}
+
+.post-bodydescription{
+    width: 100%;
+    margin:auto;
+    background-color: whitesmoke;
+ 
+}
+
+img{
+    width: 100%;
+}
+
+
+
+.header-left {
+    font-size: 60px;
+    margin-top:15px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.header-right {
+    float: right;
+    margin: 30px 10px 5px 590px;
+   
+    
+
+}
+
+.post-header {
+    display:flex;
+    background-color: whitesmoke;
+    
+}
+
+
+.post-icons {
+    display:flex;
+    display: inline;
+    padding:6px;
+    
+    
+}
+
+.posticons-right {
+    float: right;
+   
+}
+
+.postparrfo {
+    font-size: 30%;
+    background-color: whitesmoke;
+}
